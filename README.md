@@ -10,6 +10,4 @@
 
 ## 代表作品
 
-道德经，下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/tree/master/DaoDeJing)。
-
-庄子，下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/tree/master/ZhuangZi)。
+《道德经》、《庄子》下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/releases/tag/V0.0.1)。
