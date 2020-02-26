@@ -8,6 +8,8 @@
 
 [庄子](https://baike.baidu.com/item/%E5%BA%84%E5%AD%90/8074)，是继老子之后的另外道家学派代表人物，强调自由，代表作品 [《庄子》](https://baike.baidu.com/item/%E5%BA%84%E5%AD%90/2451694)。
 
+[列子](https://baike.baidu.com/item/%E5%88%97%E5%AD%90/190377)，是战国前期道家学派代表人物，代表作品 [《列子》](https://baike.baidu.com/item/%E5%88%97%E5%AD%90/13826028)。
+
 ## 代表作品
 
-《道德经》、《庄子》下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/releases/tag/V0.0.1)。
+《道德经》、《庄子》、《列子》下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/releases/tag/V0.0.2)。
