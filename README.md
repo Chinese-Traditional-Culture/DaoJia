@@ -12,4 +12,4 @@
 
 ## 代表作品
 
-《道德经》、《庄子》、《列子》下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/releases/tag/V0.0.2)。
+《道德经》、《庄子》、《列子》下载请[点击](https://github.com/Chinese-Traditional-Culture/DaoJia/releases)。
